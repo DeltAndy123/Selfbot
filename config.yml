@@ -1,0 +1,6 @@
+# Enter your user token here. Paste the code from ./docs/get_user_token.js
+# to the console copy your user token.
+token: ""
+
+# Enter the prefix here. This is the prefix that you will use for commands.
+prefix: "!"
