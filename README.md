@@ -12,7 +12,7 @@ This is a Discord Selfbot project written in TypeScript using [`discord.js-selfb
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/DeltAndy123/Selfbot
 ```
 2. Install dependencies
 ```bash
